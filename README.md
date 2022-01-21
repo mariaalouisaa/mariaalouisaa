@@ -1,7 +1,7 @@
 # 👩‍💻 Hello and welcome, I’m Maria.
-- 🌟 I’m interested in Front End Development, particulary object/component-oreiented languages!
+- 🌟 I’m interested in Front End Development, particularly object/component-oriented languages!
 - 🤖 I’m currently learning React (and refining ES6 & CSS) and I enjoy working with API's.
-- 🥞 I enjoy experimenting in the kichten, attempting to reacreate dishes from all corners of the world.
+- 🥞 I enjoy experimenting in the kitchen, attempting to recreate dishes from all corners of the world.
 - 🚗 I cherish travelling to new destinations.
 
 #### Languages and tools:
