@@ -1,4 +1,4 @@
-# 👩‍💻 Hello and welcome to my Github, I’m Maria.
+# 👩‍💻 Hi and welcome to my Github, I’m Maria.
 - 🌟 I’m interested in Front End Development, particularly object-oriented & component-oriented languages!
 - 🤖 I’m currently learning React (and refining ES6 & CSS) and I enjoy working with API's.
 - 🥞 I enjoy experimenting in the kitchen, attempting to recreate dishes from all corners of the world.
