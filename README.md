@@ -1,4 +1,8 @@
 # 👩‍💻 Hi and welcome to my Github, I’m Maria.
+
+<img src="https://user-images.githubusercontent.com/82417131/150899218-7d175f33-bc76-4b14-aba9-4dc5b6344b3e.png" width="80%" />
+
+
 - 🌟 I’m interested in Front End Development, particularly object-oriented & component-oriented languages!
 - 🤖 I’m currently learning React (and refining ES6 & CSS) and I enjoy working with API's.
 - 🥞 I enjoy experimenting in the kitchen, attempting to recreate dishes from all corners of the world.
