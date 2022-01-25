@@ -2,8 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/82417131/150899218-7d175f33-bc76-4b14-aba9-4dc5b6344b3e.png" width="80%" />
 
+### *I am currenlty studying with [Founders & Coders](https://www.foundersandcoders.com/) on their 2022 Pre-Apprentiship programme.*
 
-- 🌟 I’m interested in Front End Development, particularly object-oriented & component-oriented languages!
+**A bit about me:**
+- 🌟 I’m interested in Front End Development, *particularly* object-oriented & component-oriented languages!
 - 🤖 I’m currently learning React (and refining ES6 & CSS) and I enjoy working with API's.
 - 🥞 I enjoy experimenting in the kitchen, attempting to recreate dishes from all corners of the world.
 - 🌟 All of the projects in my highlights are designed, coded and maintained entirely by myself!
