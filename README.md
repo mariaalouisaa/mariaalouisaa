@@ -16,8 +16,8 @@
 
 #### Currently working on:
 
-- 📚 Vanilla JS: [Wordle copycat](https://github.com/mariaalouisaa/wordle-copycat) (I'm more than halfway there!)
-- 👀 React: 3-in-1 App; stopclock, shopping list & date/time (watch this space...)
+- 📚 Vanilla JS: [Wordle copycat](https://github.com/mariaalouisaa/wordle-copycat) (nearly completed!)
+- 👀 React: [3-in-1 App](https://github.com/mariaalouisaa/3-in-1-react); stopclock, shopping list & date/time (early stages still)
 
 
 ## My GitHub stats:
