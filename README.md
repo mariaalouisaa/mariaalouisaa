@@ -16,7 +16,7 @@
 
 #### Currently working on:
 
-- 📚 Vanilla JS: [Wordle copycat](https://github.com/mariaalouisaa/wordle-copycat) (nearly completed!)
+- 🐍 Vanilla JS: [Snake Game](https://github.com/mariaalouisaa/snake-the-game) (half way there!)
 - 👀 React: [3-in-1 App](https://github.com/mariaalouisaa/3-in-1-react); stopclock, shopping list & date/time (early stages still)
 
 
