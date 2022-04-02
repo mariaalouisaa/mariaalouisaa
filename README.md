@@ -16,7 +16,7 @@
 
 #### Currently working on:
 
-- 🐍 Vanilla JS: [Snake Game](https://github.com/mariaalouisaa/snake-the-game) (nearly finished!)
+- 🐍 Vanilla JS & API: [Pokemon Top Trumps](https://mariaalouisaa.github.io/pokemon-top-trumps/) (getting there!)
 - 👀 React: [3-in-1 App](https://github.com/mariaalouisaa/3-in-1-react); stopclock, shopping list & date/time (early stages still)
 
 
