@@ -1,7 +1,5 @@
 # 👩‍💻 Hi and welcome to my Github, I’m Maria.
 
-<img src="https://user-images.githubusercontent.com/82417131/150899218-7d175f33-bc76-4b14-aba9-4dc5b6344b3e.png" width="80%" />
-
 ### *I am currenlty studying at [Founders & Coders](https://www.foundersandcoders.com/) due to start an Apprenticeship as a full stack developer.*
 
 **A bit about me:**
