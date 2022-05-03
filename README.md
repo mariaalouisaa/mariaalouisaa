@@ -1,6 +1,6 @@
 # 👩‍💻 Hi and welcome to my Github, I’m Maria.
 
-### *I am currenlty studying at [Founders & Coders](https://www.foundersandcoders.com/) due to start an Apprenticeship as a full stack developer.*
+### *I am currenlty studying at [Founders & Coders](https://www.foundersandcoders.com/) due to start an Apprenticeship as a full stack developer soon.*
 
 **A bit about me:**
 - 🌟 I’m interested in Front End Development, *particularly* object-oriented & component-oriented languages!
