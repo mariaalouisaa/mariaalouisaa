@@ -1,6 +1,6 @@
 # 👩‍💻 Hi and welcome to my Github, I’m Maria.
 
-**Apprentice Full Stack Developer at Limio**
+**Full Stack Developer at Limio**
 
 _[Founders & Coders](https://www.foundersandcoders.com/) alumni - FAC24_
 
